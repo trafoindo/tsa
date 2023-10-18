@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "878139457699",
+    "project_id": "trafindo-b2b1f",
+    "storage_bucket": "trafindo-b2b1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878139457699:android:15e6ec501812d10805ff16",
+        "android_client_info": {
+          "package_name": "com.example.trafindo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrhsAExhm-4Qh471uC70kO4ZDmGSILZPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
